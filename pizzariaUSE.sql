@@ -1,0 +1,2 @@
+CREATE DATABASE Pizzaria CHARACTER SET UTF8 COLLATE utf8_general_ci;
+USE Pizzaria;
