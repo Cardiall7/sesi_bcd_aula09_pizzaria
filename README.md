@@ -2,7 +2,7 @@
 
 Repositório criado para a atividade prática da aula de Banco de Dados, focando em manipulação de dados (DML), criação de consultas avançadas com agrupamentos (`GROUP BY`, `SUM`, `COUNT`) e criação de visões (`VIEWS`).
 
-## 🛠️ Atividades Realizadas
+## Atividades Realizadas
 
 1. **Criação de Views (`views.sql`):**
    - Relatório geral relacionando pedidos, itens, clientes e pizzas com o cálculo do subtotal por item.
