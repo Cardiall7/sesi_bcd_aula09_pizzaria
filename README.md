@@ -1,4 +1,4 @@
-# Projeto Pizzaria - Banco de Dados (SQL DDL/DML/Views)
+# Projeto Pizzaria - Banco de Dados
 
 Repositório criado para a atividade prática de Banco de Dados, focando na modelagem, criação, população, manipulação de dados e criação de relatórios em formato de Views utilizando **MySQL / XAMPP**.
 
